@@ -9,7 +9,7 @@
 
 * The objective of this repo is to clarify all topics presented on [CEH v11](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/) (ANSI) exam.
 
-### ⚡︎ **This study guide have some [practical labs] to test your knowledge and learn by doing.**
+### ⚡︎ **This study guide have some [practical labs] to test your knowledge and learn by doing**
 ---
 
 * ⚠️ **Important note about the exam:**
